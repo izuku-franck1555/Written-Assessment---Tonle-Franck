@@ -1,0 +1,37 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Temporary & lock files
+*.lock
+*.tmp
+*.swp
+*.swo
+*~
+
+# Exclude compiled files
+*.o
+*.so
+*.out
+*.exe
+
+# Ignore environment files
+.env
+*.env
